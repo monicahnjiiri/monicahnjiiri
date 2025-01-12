@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e017f2c4-56b9-4abd-86c8-9ac8f5ee62b2)## 👋 Hello, World!
+## 👋 Hello, World!
 
 My name is Monicah, a Kenyan by birth, a global citizen by passion, and a dreamer by nature. 
 I thrive at the intersection of technology and humanity, driven by a mission to make a difference in the world while having fun along the way.
