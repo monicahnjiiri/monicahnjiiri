@@ -6,9 +6,9 @@ I thrive at the intersection of technology and humanity, driven by a mission to 
 ### 👩‍💻 Data Enthusiast, Tech Explorer
 I am captivated by how data can transform decisions and shape the world. I thrive on solving problems, creating insights, and building meaningful visualizations that bring clarity to complexity. My heart also beats for machine learning and AI, and I love exploring their potential to solve problems in impactful ways.
 This site serves as a living portfolio where I share:
-    • 📂Projects: From small experiments to impactful applications.
-    • ✍️Blogs: Insights into data science, my learning journey, and personal stories.
-    • 💡Ideas: Documenting thoughts and processes as I grow.
+- 📂Projects: From small experiments to impactful applications.
+- ✍️Blogs: Insights into data science, my learning journey, and personal stories.
+- 💡Ideas: Documenting thoughts and processes as I grow.
     
 I’m a big believer in progress over perfection. Every project I complete and every life I touch is a step closer to the person I aspire to be. I’m building not just a career, but a life rooted in purpose and passion.
 
