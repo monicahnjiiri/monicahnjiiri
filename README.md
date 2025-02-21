@@ -3,20 +3,22 @@
 My name is Monicah, a Kenyan by birth, a global citizen by passion, and a dreamer by nature. 
 I thrive at the intersection of technology and humanity, driven by a mission to make a difference in the world while having fun along the way.
 
-### 👩‍💻 Data Enthusiast, Tech Explorer
-I am captivated by how data can transform decisions and shape the world. I thrive on solving problems, creating insights, and building meaningful visualizations that bring clarity to complexity. My heart also beats for machine learning and AI, and I love exploring their potential to solve problems in impactful ways.
-This site serves as a living portfolio where I share:
-- 📂Projects: From small experiments to impactful applications.
-- ✍️Blogs: Insights into data science, my learning journey, and personal stories.
-- 💡Ideas: Documenting thoughts and processes as I grow.
-    
-I’m a big believer in progress over perfection. Every project I complete and every life I touch is a step closer to the person I aspire to be. I’m building not just a career, but a life rooted in purpose and passion.
+#### Some things that keep me going:
+- 📊**Data & visualizations** that actually make sense
+- 💻**Python, R, SQL**, and a bit of *"wait, why isn't my code working?"*
+- 📚**German?** Already at B2—no more "ich versuche"!
+- ☕**Coffee > Tea**. No debate.
+- 🌍**Sustainability & environmental impact** — because numbers can help save the planet
+  
+### 🛠️ Tech & Tools I Mess Around With
+Languages & Databases: Python | SQL
+Analytics & BI: Power BI | Excel| Tableau
+Libraries & Frameworks: Pandas | Scikit-learn | NumPy | Matplotlib | Seaborn
+Version Control & Workflow: Git | GitHub |Kaggle |Streamlit
 
-### 💖 Championing Change
-Outside of data and tech, I am passionate about giving back to my community. I dedicate time to supporting children’s homes and street children, because every child deserves a chance to dream big and achieve more. It’s my way of building a better future, one step at a time.
-I’m also deeply connected to nature, animals, and the idea of a more sustainable world. I believe that taking care of our environment is just as important as advancing in technology, and I enjoy finding small ways to contribute to a greener planet.
+### 🌟 Find Me Here
+- 🚀 Dropping data & machine learning content (soon!): …TikTok & YouTube
+- 🔗 [LinkedIn](https://www.linkedin.com/in/monicah-njiiri-36555526a/) for serious business stuff
+- ✉️ Open to cool convos & collabs — just don’t ask me for free data analysis 😆
 
-### 🌟 A Touch of Humor
-When I’m not coding or blogging, you’ll likely find me convincing myself that coffee counts as a meal. Prove me wrong 😁
-
-Thank you for visiting my little corner of the internet. Whether you’re here to collaborate, connect, or simply explore, I hope you find something meaningful. Let’s make progress, together!
+🌍 *Wild thought*: They say the Earth is an oblate spheroid… but what if it’s actually a wobbly pancake spinning through space? 🤔 And if gravity ever decides to call it quits, will I just float away with my data and an unfinished machine learning model, desperately trying to run one last line of code? Guess we’ll never know… until we do. 😆🚀
