@@ -20,5 +20,6 @@ Version Control & Workflow: Git | GitHub |Kaggle |Streamlit
 - 🚀 Dropping data & machine learning content (soon!): …TikTok & YouTube
 - 🔗 [LinkedIn](https://www.linkedin.com/in/monicah-njiiri-36555526a/) for serious business stuff
 - ✉️ Open to cool convos & collabs — just don’t ask me for free data analysis 😆
+- ✉️ [Send me an email - hello@monicahnjiiri.com](mailto:hello@monicahnjiiri.com)
 
 🌍 *Wild thought*: They say the Earth is an oblate spheroid… but what if it’s actually a wobbly pancake spinning through space? 🤔 And if gravity ever decides to call it quits, will I just float away with my data and an unfinished machine learning model, desperately trying to run one last line of code? Guess we’ll never know… until we do. 😆🚀
