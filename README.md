@@ -1,7 +1,6 @@
 ## 👋 Hello!
 
-My name is Monicah, a global citizen by passion, and a dreamer by nature. 
-I thrive at the intersection of technology and humanity, driven by a mission to make a difference in the world while having fun along the way.
+Driven by a passion for technology and innovation, I navigate the intersection of data, problem-solving, and impact. Always exploring, learning, and creating solutions that matter.
 
 #### Some things that keep me going:
 - 📊**Data & visualizations** that actually make sense
