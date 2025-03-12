@@ -1,4 +1,4 @@
-## 👋 Hello, World!
+## 👋 Hello!
 
 My name is Monicah, a global citizen by passion, and a dreamer by nature. 
 I thrive at the intersection of technology and humanity, driven by a mission to make a difference in the world while having fun along the way.
